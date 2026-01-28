@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Zohox-Dev">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Manrope&weight=600&size=50&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=600&height=100&lines=ZOHOX+DEV+COLLECTIVE;ARCHITECTS+OF+THE+FUTURE;WEB+%E2%80%A2+DESKTOP+%E2%80%A2+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Manrope&weight=600&size=50&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=600&height=100&lines=ZOHOX+DEV+COLLECTIVE;THE+FUTURE;WEB+%E2%80%A2+AI+%E2%80%A2+DESKTOP" alt="Typing SVG" />
   </a>
 </div>
 
@@ -59,12 +59,6 @@
 </div>
 
 <br/><br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zohox-Dev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&hide_title=true&count_private=true" alt="Zohox Dev Stats" />
-</div>
-
-<br/>
 
 <div align="center">
   <p style="color: #475569; font-size: 12px;">
